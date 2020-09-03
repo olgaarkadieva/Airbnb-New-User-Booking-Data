@@ -1,6 +1,13 @@
 # Airbnb-New-User-Booking-Data
 
+Airbnb, Inc. is an American vacation rental online marketplace company based in San Francisco, California, United States. Airbnb offers arrangement for lodging, primarily homestays, or tourism experiences.
 
+So in this project I have applied following steps.
+ * Data Exploration
+ * Data Processing
+ * Feature Engineering
+ * Model Building
+which predicts new user booking.  
 
  
  I have commented my code to explain my project step by step
